@@ -1,0 +1,13 @@
+ACR Config:
+acr pack: true
+acr name: SERVER_ACR
+Commands and code:
+Command №1 > /banchikbananchik
+>   <ACR INFO>
+>    <Creator:Bogdmc>
+>     <About:Серверная комманда на бан игрока! (БЕТА)
+>  command(/ban *NAME*)
+>  msg(*NAME* был забанен!)
+Command №2 > /acrinfo
+> #Комманда не настроена.
+   
